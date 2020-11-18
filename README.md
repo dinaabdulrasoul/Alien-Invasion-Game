@@ -3,6 +3,7 @@
 * ### Overview  
 * ### Game Description  
 * ### Instructions to Play  
+* ### Screen Recording 
 
 
 ## Overview
@@ -20,3 +21,6 @@ The top left of the screen displays how many ships you have left, the top center
 ## Instructions to Play
 Make sure to download the **alien_invasion.py** file, all the files in the **modules** folder as well as all the images in the **necessary_images** folder.  
 Once you have all the files needed, put them all in the same directory then have fun!  
+
+## Screen Recording
+![Alien Invasion](https://github.com/dinaabdulrasoul/Alien-Invasion-Game/blob/main/screen_shots/alien-invasion%20gif.gif)
