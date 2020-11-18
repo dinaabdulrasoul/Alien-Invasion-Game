@@ -12,8 +12,8 @@ This game was developed as a project for practicing Python programming skills us
 ## Game Description 
 * The game has three main elements: aliens, ship & bullets. The game starts with aliens arranged in rows starting from the top of the screen and the ship centered at the bottom-center of the screen.   
 * The ship is allowed to move horizontally only using the leftwards arrow and rightwards arrow keys on the keyboard, the bullets are fired when the space-bar is pressed. Players can only have 10 bullets present on each screen.  
-* The player starts the game with three ships if an alien touches your ship, you lose one ship.   
-* Once the player kills all the aliens present at the screen, he moves on to the next level.  
+* The player starts the game with three ships if an alien collides with the ship, the player loses one ship.   
+* Once the player kills all the aliens present at the screen, the player moves on to the next level.  
 * The game starts with the aliens moving slowly but with each new level, the aliens' speed increase.  
 * The top left of the screen displays how many ships you have left, the top center shows the best score and the top left shows your current score and the level you're on.
 * Killing eacn alien earns you points and with the level's difficulty increasing, the points you earn for each alien you kill increases as well.
