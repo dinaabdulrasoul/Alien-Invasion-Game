@@ -14,7 +14,7 @@ The ship is allowed to move horizontally only using the leftwards arrow and righ
 The player starts the game with three ships if an alien touches your ship, you lose one ship.   
 Once the player kills all the aliens present at the screen, he moves on to the next level.  
 The game starts with the aliens moving slowly but with each new level, the aliens' speed increase.  
-![Game-Start](https://github.com/dinaabdulrasoul/Alien-Invasion-game/tree/main/screen_shots)  
+![Game-Start](https://github.com/dinaabdulrasoul/Alien-Invasion-game/blob/main/screen_shots/alien_invasion.PNG)  
 
 ## Instructions to Play
 Make sure to download the **alien_invasion.py** file, all the files in the **modules** folder as well as all the images in the **necessary_images** folder.  
