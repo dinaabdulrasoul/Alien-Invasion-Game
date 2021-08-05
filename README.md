@@ -25,3 +25,6 @@ Once you have all the files needed, put them all in the same directory then have
 
 ## Screen Recording
 ![Alien Invasion](https://github.com/dinaabdulrasoul/Alien-Invasion-Game/blob/main/screen_shots/alien-invasion%20gif.gif)
+
+## Demo
+https://youtu.be/xpYx73Uz6bw
