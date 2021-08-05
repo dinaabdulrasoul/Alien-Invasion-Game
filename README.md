@@ -26,9 +26,9 @@ Once you have all the files needed, put them all in the same directory then have
 ## Screen Recording
 ![Alien Invasion](https://github.com/dinaabdulrasoul/Alien-Invasion-Game/blob/main/screen_shots/alien-invasion%20gif.gif)
 
-## Demo
+## Demo  
 [Alien Invasion] (https://youtu.be/xpYx73Uz6bw)
 
-## Other 2D Games
-[Catch the Ball Game](https://youtu.be/UU6e1ZdcT3o)
-[Shooting Game](https://youtu.be/rQiZFrSoD4E)
+## Other 2D Games  
+* [Catch the Ball Game](https://youtu.be/UU6e1ZdcT3o)  
+* [Shooting Game](https://youtu.be/rQiZFrSoD4E)  
