@@ -7,7 +7,7 @@
 
 
 ## Overview
-This game was developed as a project for practicing Python programming skills using the *Pygame* library. This project was done under guidance from the book, *Python Crash Course* by *Eric Matthes*.  
+This game was developed as a project for practicing Python programming skills using the *Pygame*.
 
 ## Game Description 
 * The game has three main elements: aliens, ship & bullets. The game starts with aliens arranged in rows starting from the top of the screen and the ship centered at the bottom-center of the screen.   
